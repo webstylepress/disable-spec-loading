@@ -13,4 +13,6 @@ add_action('template_redirect', function () {
 });
 ```
 
+[Tutorial](https://youtu.be/mtyIzyplXR4)
+
 [WebStylePress](https://www.youtube.com/@webstylepress)
